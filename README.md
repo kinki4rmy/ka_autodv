@@ -6,7 +6,9 @@
 
 ## Como lo añado al servidor? ❓
 
-> Para agregarlo tienes que ponerlo en tu **carpeta de recursos** y en el **server.cfg** poner `ensure ka_autodv`
+> Para agregarlo tienes que ponerlo en tu **carpeta de recursos** y en el **server.cfg** poner:
+ 
+`ensure ka_autodv`
 
 ## Como configuro el tiempo? ⌚
 
@@ -20,7 +22,9 @@
 
 ## How can I add it? ❓
 
-> To add it all you have to do is put it normally in your **resources folder** and in the **server.cfg** put `ensure ka_autodv`
+> To add it all you have to do is put it normally in your **resources folder** and in the **server.cfg** put:
+ 
+`ensure ka_autodv`
 
 ## How is it configured? ⌚
 
