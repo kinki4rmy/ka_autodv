@@ -1,3 +1,6 @@
+# Preview 👀
+![](https://imgur.com/jfxjZKJ.png)
+
 # Español 🇪🇸
 
 ## Descripcion Sobre El Script 📝
@@ -29,6 +32,3 @@
 ## How is it configured? ⌚
 
 > To set it, you need to change the time to whatever you want in the **server.lua** part on **line 23**.
-
-# Preview 👀
-![](https://imgur.com/jfxjZKJ.png)
